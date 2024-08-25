@@ -1,0 +1,54 @@
+# Gradle files
+.gradle/
+build/
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+gradle-app.setting
+gradle-local.properties
+
+# Local configuration files
+local.properties
+
+# Android Studio and IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Kotlin specific
+*.kotlin_metadata
+
+# Dependency directories
+/.gradle
+/.idea/libraries/
+*.jar
+
+# Miscellaneous
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+*.sublime-settings
+
+# Files for Android's Gradle build system
+/build/
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+*.keystore
+*.jks
+
+# JetBrains IDE
+.idea/
+
+# macOS Finder
+.DS_Store
+
+# Windows
+Thumbs.db
