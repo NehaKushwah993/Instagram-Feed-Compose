@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "aspect_ratio": "1:1",
+    "media_list": [
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "type": "video",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
+      },
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+        "type": "image",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "aspect_ratio": "4:5",
+    "media_list": [
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "type": "video",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+      },
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+        "type": "image",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "aspect_ratio": "1.91:1",
+    "media_list": [
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+        "type": "video",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg"
+      },
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+        "type": "image",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "aspect_ratio": "1:1",
+    "media_list": [
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "type": "video",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg"
+      },
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
+        "type": "image",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "aspect_ratio": "4:5",
+    "media_list": [
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "type": "video",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+      },
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny2.jpg",
+        "type": "image",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "aspect_ratio": "1.91:1",
+    "media_list": [
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "type": "video",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
+      },
+      {
+        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream2.jpg",
+        "type": "image",
+        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream2.jpg"
+      }
+    ]
+  }
+]
