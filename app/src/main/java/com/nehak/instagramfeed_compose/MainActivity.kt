@@ -21,6 +21,7 @@ import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.TextStyle
+import com.nehak.instagramfeed_compose.data.FeedDataModel
 import com.nehak.instagramfeed_compose.utils.parseFeedDataFromAssets
 import kotlin.math.max
 import kotlin.math.min

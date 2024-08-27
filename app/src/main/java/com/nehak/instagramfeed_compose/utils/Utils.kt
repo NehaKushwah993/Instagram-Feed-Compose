@@ -3,7 +3,7 @@ package com.nehak.instagramfeed_compose.utils
 import android.content.Context
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.nehak.instagramfeed_compose.FeedDataModel
+import com.nehak.instagramfeed_compose.data.FeedDataModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.io.InputStreamReader

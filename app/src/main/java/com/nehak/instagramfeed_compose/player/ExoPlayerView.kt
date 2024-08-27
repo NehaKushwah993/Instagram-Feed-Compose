@@ -1,5 +1,6 @@
-package com.nehak.instagramfeed_compose
+package com.nehak.instagramfeed_compose.player
 
+import androidx.compose.animation.core.RepeatMode
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
@@ -21,7 +22,12 @@ import androidx.media3.ui.PlayerView
  * @see videoUrl Replace with the actual URI of the video to be played.
  */
 @Composable
-fun VideoPlayerView(videoUrl: String, isPlaying: Boolean, shouldUseController: Boolean = false) {
+fun VideoPlayerView(
+    videoUrl: String,
+    isPlaying: Boolean,
+    shouldUseController: Boolean = false,
+    repeatMode: RepeatMode = RepeatMode.Restart
+) {
     val localContext = LocalContext.current
 
     /**
@@ -38,6 +44,7 @@ fun VideoPlayerView(videoUrl: String, isPlaying: Boolean, shouldUseController: B
 
         // Start playback if isPlaying is true
         exoPlayer.playWhenReady = isPlaying
+        exoPlayer.repeatMode = repeatMode.ordinal
 
         onDispose {
             exoPlayer.release()
