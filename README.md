@@ -1,10 +1,10 @@
-Are you searching for : "How to play videos like Instagram or TikTok or LinkedIn in Android ?" 
+# InstagramFeedClone-Compose
 
-then use my code :)
+Hey! Are you searching for how to play videos like Instagram, TikTok, or LinkedIn in Android?
+
+Look no further! This project provides a solution for:
 
 https://github.com/user-attachments/assets/bdcea9f1-b9bd-4875-a533-a73b71c91d28
-
-# Instagram-Feed-Compose
 
 **Instagram-Feed-Compose** is a Jetpack Compose-based Android project designed to replicate the Instagram feed experience. If you're looking for an Instagram feed clone that incorporates modern UI practices and efficient media handling, this project is a perfect fit.
 
