@@ -44,8 +44,6 @@ fun InstagramProfile(userDetails: UserDetails?, storyAvailable: Boolean) {
 
         ) {
 
-//        Spacer(modifier = Modifier.width(12.dp))
-
         // Profile Picture with Story Available Marker
         Box(
             modifier = Modifier

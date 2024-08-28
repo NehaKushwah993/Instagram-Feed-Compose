@@ -6,7 +6,7 @@
       "display_name": "Alice",
       "profile_pic_link": "https://randomuser.me/api/portraits/women/1.jpg"
     },
-    "aspect_ratio": "1:1",
+    "aspect_ratio": "16:9",
     "media_list": [
       {
         "id": "a1b2c3d4e5f6",
@@ -32,7 +32,7 @@
       "display_name": "Bob",
       "profile_pic_link": "https://randomuser.me/api/portraits/men/2.jpg"
     },
-    "aspect_ratio": "4:5",
+    "aspect_ratio": "16:9",
     "media_list": [
       {
         "id": "b2c3d4e5f6g7",
@@ -58,7 +58,7 @@
       "display_name": "Charlie",
       "profile_pic_link": "https://randomuser.me/api/portraits/men/3.jpg"
     },
-    "aspect_ratio": "1:1",
+    "aspect_ratio": "16:9",
     "media_list": [
       {
         "id": "n4o5p6q7r8s1",
@@ -96,7 +96,7 @@
       "display_name": "Diana",
       "profile_pic_link": "https://randomuser.me/api/portraits/women/4.jpg"
     },
-    "aspect_ratio": "1.91:1",
+    "aspect_ratio": "16:9",
     "media_list": [
       {
         "id": "c3d4e5f6g7h8",
@@ -122,7 +122,7 @@
       "display_name": "Eve",
       "profile_pic_link": "https://randomuser.me/api/portraits/women/5.jpg"
     },
-    "aspect_ratio": "1:1",
+    "aspect_ratio": "16:9",
     "media_list": [
       {
         "id": "d4e5f6g7h8i0",
@@ -148,7 +148,7 @@
       "display_name": "Frank",
       "profile_pic_link": "https://randomuser.me/api/portraits/men/6.jpg"
     },
-    "aspect_ratio": "4:5",
+    "aspect_ratio": "16:9",
     "media_list": [
       {
         "id": "e5f6g7h8i9j0",
@@ -174,7 +174,7 @@
       "display_name": "Grace",
       "profile_pic_link": "https://randomuser.me/api/portraits/women/7.jpg"
     },
-    "aspect_ratio": "1.91:1",
+    "aspect_ratio": "16:9",
     "media_list": [
       {
         "id": "f6g7h8i9j0k1",
@@ -190,187 +190,7 @@
       }
     ],
     "likes_count": 1200000,
-    "description": "A continuation of Elephants Dream with more stunning scenes and captivating moments. #ElephantsDream #Continuation #Scenes @user7",
-    "posted_time": 1689139200000
-  },
-  {
-    "id": "7",
-    "poster_details": {
-      "id": "user8",
-      "display_name": "Hannah",
-      "profile_pic_link": "https://randomuser.me/api/portraits/women/8.jpg"
-    },
-    "aspect_ratio": "1:1",
-    "media_list": [
-      {
-        "id": "g7h8i9j0k1l2",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
-        "type": "image",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "A serene image of elephants, perfect for a calm and relaxing mood. #Elephants #Serene #Relaxation @user8",
-    "posted_time": 1693190400000
-  },
-  {
-    "id": "8",
-    "poster_details": {
-      "id": "user9",
-      "display_name": "Isaac",
-      "profile_pic_link": "https://randomuser.me/api/portraits/men/9.jpg"
-    },
-    "aspect_ratio": "4:5",
-    "media_list": [
-      {
-        "id": "h8i9j0k1l2m3",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-        "type": "image",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "A delightful image from Big Buck Bunny, showing the charming character of the bunny. #BigBuckBunny #Charming #Delightful @user9",
-    "posted_time": 1693113600000
-  },
-  {
-    "id": "9",
-    "poster_details": {
-      "id": "user10",
-      "display_name": "Jack",
-      "profile_pic_link": "https://randomuser.me/api/portraits/men/10.jpg"
-    },
-    "aspect_ratio": "1.91:1",
-    "media_list": [
-      {
-        "id": "i9j0k1l2m3n4",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-        "type": "video",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "A thrilling clip from Sintel, showcasing dramatic and engaging scenes. #Sintel #Thrilling #Drama @user10",
-    "posted_time": 1692441600000
-  },
-  {
-    "id": "10",
-    "poster_details": {
-      "id": "user11",
-      "display_name": "Kara",
-      "profile_pic_link": "https://randomuser.me/api/portraits/women/11.jpg"
-    },
-    "aspect_ratio": "16:9",
-    "media_list": [
-      {
-        "id": "j0k1l2m3n4o5",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-        "type": "video",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "A dynamic video from For Bigger Escapes, full of excitement and adventure. #ForBiggerEscapes #Dynamic #Adventure @user11",
-    "posted_time": 1690982400000
-  },
-  {
-    "id": "11",
-    "poster_details": {
-      "id": "user12",
-      "display_name": "Liam",
-      "profile_pic_link": "https://randomuser.me/api/portraits/men/12.jpg"
-    },
-    "aspect_ratio": "4:5",
-    "media_list": [
-      {
-        "id": "k1l2m3n4o5p6",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny2.jpg",
-        "type": "image",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny2_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "A visually appealing image from Big Buck Bunny’s sequel, showing off more vibrant scenes. #BigBuckBunny #Sequel #Vibrant @user12",
-    "posted_time": 1693171200000
-  },
-  {
-    "id": "12",
-    "poster_details": {
-      "id": "user13",
-      "display_name": "Mia",
-      "profile_pic_link": "https://randomuser.me/api/portraits/women/13.jpg"
-    },
-    "aspect_ratio": "1.91:1",
-    "media_list": [
-      {
-        "id": "l2m3n4o5p6q7",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream2.jpg",
-        "type": "image",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream2_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "An enchanting image from Elephants Dream, highlighting the beauty of nature. #ElephantsDream #Nature #Enchanting @user13",
-    "posted_time": 1691769600000
-  },
-  {
-    "id": "13",
-    "poster_details": {
-      "id": "user14",
-      "display_name": "Noah",
-      "profile_pic_link": "https://randomuser.me/api/portraits/men/14.jpg"
-    },
-    "aspect_ratio": "16:9",
-    "media_list": [
-      {
-        "id": "m3n4o5p6q7r8",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "type": "video",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "A captivating video excerpt from Big Buck Bunny, full of engaging moments. #BigBuckBunny #Captivating #Video @user14",
-    "posted_time": 1693104000000
-  },
-  {
-    "id": "14",
-    "poster_details": {
-      "id": "user15",
-      "display_name": "Olivia",
-      "profile_pic_link": "https://randomuser.me/api/portraits/women/15.jpg"
-    },
-    "aspect_ratio": "1:1",
-    "media_list": [
-      {
-        "id": "n4o5p6q7r8s9",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
-        "type": "image",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "A beautiful image from Sintel showcasing its iconic scenes. #Sintel #Beautiful #Iconic @user15",
-    "posted_time": 1693209600000
-  },
-  {
-    "id": "15",
-    "poster_details": {
-      "id": "user16",
-      "display_name": "Paul",
-      "profile_pic_link": "https://randomuser.me/api/portraits/men/16.jpg"
-    },
-    "aspect_ratio": "4:5",
-    "media_list": [
-      {
-        "id": "o5p6q7r8s9t0",
-        "link": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
-        "type": "image",
-        "thumbnail": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes_thumb.jpg"
-      }
-    ],
-    "likes_count": 1200000,
-    "description": "A classic scene from For Bigger Escapes, evoking nostalgia and charm. #ForBiggerEscapes #Nostalgia #Classic @user16",
-    "posted_time": 1692854400000
+    "description": "Another look at the majestic Elephants Dream with new insights. #ElephantsDream #Majestic #Insights @user7",
+    "posted_time": 1687392000000
   }
 ]

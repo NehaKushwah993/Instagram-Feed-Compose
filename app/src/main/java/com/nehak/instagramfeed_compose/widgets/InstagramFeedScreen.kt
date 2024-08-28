@@ -28,7 +28,7 @@ import kotlin.math.min
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun FeedScreen(mediaItems: List<FeedDataModel>, loading: Boolean) {
+fun InstagramFeedScreen(mediaItems: List<FeedDataModel>, loading: Boolean) {
     Scaffold(topBar = {
         TopAppBar(title = { Text(text = "Instagram Clone") })
     }, containerColor = Color.White) {
@@ -50,6 +50,7 @@ fun FeedScreen(mediaItems: List<FeedDataModel>, loading: Boolean) {
 private fun ListOfFeedItems(mediaItems: List<FeedDataModel>) {
     val listState = rememberLazyListState()
     val scrollThreshold = 10
+    val minimumVisibilityPercentageRequiredToPlayVideo = 30
 
     /** Track the most visible item index **/
     var mostVisibleMediaItemId by remember { mutableStateOf<String?>(null) }
@@ -82,7 +83,7 @@ private fun ListOfFeedItems(mediaItems: List<FeedDataModel>) {
                         var visiblePercentage =
                             (visibleHeight / totalHeight.toFloat()) * 100
 
-                        if (visiblePercentage <= 30) {
+                        if (visiblePercentage <= minimumVisibilityPercentageRequiredToPlayVideo) {
                             visiblePercentage = 0f
                         }
 
@@ -110,7 +111,7 @@ private fun ListOfFeedItems(mediaItems: List<FeedDataModel>) {
     /** list of media **/
     LazyColumn(state = listState) {
         items(mediaItems) { mediaItem ->
-            FeedItemView(mediaItem = mediaItem, selectedMediaItemId = mostVisibleMediaItemId)
+            InstagramFeedItemView(mediaItem = mediaItem, selectedMediaItemId = mostVisibleMediaItemId)
         }
     }
 }
